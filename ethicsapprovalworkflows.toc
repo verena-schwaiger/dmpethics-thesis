@@ -1,0 +1,54 @@
+\contentsline {section}{\numberline {1}Introduction}{5}{section.1}
+\contentsline {subsection}{\numberline {1.1}Introduction to the topic}{5}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Task and goals}{6}{subsection.1.2}
+\contentsline {section}{\numberline {2}Background}{8}{section.2}
+\contentsline {subsection}{\numberline {2.1}FAIR principles}{8}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Machine-actionable Data Management Plans}{8}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Related work}{10}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Constraints}{10}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}Summary}{11}{subsection.2.5}
+\contentsline {section}{\numberline {3}Analysis of the ethical approval process}{12}{section.3}
+\contentsline {subsection}{\numberline {3.1}Process and structure}{12}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Examples and experience reports}{16}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Summary}{17}{subsection.3.3}
+\contentsline {section}{\numberline {4}A formal model for ethical approval workflows}{18}{section.4}
+\contentsline {subsection}{\numberline {4.1}Requirements and characteristics}{18}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}A pattern language for the ethical approval process workflow}{18}{subsection.4.2}
+\contentsline {paragraph}{Overview}{21}{section*.10}
+\contentsline {paragraph}{Pattern 1: Ethical approval process instance}{21}{section*.11}
+\contentsline {paragraph}{Pattern 2: Identify a specific workflow}{23}{section*.14}
+\contentsline {paragraph}{Pattern 3: Describe a study}{25}{section*.16}
+\contentsline {subsection}{\numberline {4.3}An ontology for the ethical approval process}{26}{subsection.4.3}
+\contentsline {subsubsection}{\numberline {4.3.1}Integration of existing ontologies}{26}{subsubsection.4.3.1}
+\contentsline {subsubsection}{\numberline {4.3.2}Ontology design}{27}{subsubsection.4.3.2}
+\contentsline {subsection}{\numberline {4.4}Modelling the data flow}{28}{subsection.4.4}
+\contentsline {subsection}{\numberline {4.5}Summary}{31}{subsection.4.5}
+\contentsline {section}{\numberline {5}Concept realization}{32}{section.5}
+\contentsline {subsection}{\numberline {5.1}Implementation concept}{32}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Tools and technologies}{35}{subsection.5.2}
+\contentsline {subsection}{\numberline {5.3}Architecture}{35}{subsection.5.3}
+\contentsline {subsection}{\numberline {5.4}Managing user workflows}{36}{subsection.5.4}
+\contentsline {subsubsection}{\numberline {5.4.1}Identify application requirements}{37}{subsubsection.5.4.1}
+\contentsline {subsubsection}{\numberline {5.4.2}Organization of questionnaire data}{38}{subsubsection.5.4.2}
+\contentsline {subsubsection}{\numberline {5.4.3}Managing application data}{40}{subsubsection.5.4.3}
+\contentsline {subsubsection}{\numberline {5.4.4}Checklist}{40}{subsubsection.5.4.4}
+\contentsline {subsubsection}{\numberline {5.4.5}Similar studies}{40}{subsubsection.5.4.5}
+\contentsline {subsection}{\numberline {5.5}PIDs and data storage}{42}{subsection.5.5}
+\contentsline {subsubsection}{\numberline {5.5.1}Choosing the right data storage}{42}{subsubsection.5.5.1}
+\contentsline {subsubsection}{\numberline {5.5.2}MediaWiki Setup}{44}{subsubsection.5.5.2}
+\contentsline {subsubsection}{\numberline {5.5.3}Integrating ontologies}{44}{subsubsection.5.5.3}
+\contentsline {subsubsection}{\numberline {5.5.4}Interaction between MediaWiki and web application}{45}{subsubsection.5.5.4}
+\contentsline {subsubsection}{\numberline {5.5.5}PIDs}{46}{subsubsection.5.5.5}
+\contentsline {subsection}{\numberline {5.6}Example walkthrough}{48}{subsection.5.6}
+\contentsline {subsection}{\numberline {5.7}Evaluation}{54}{subsection.5.7}
+\contentsline {subsubsection}{\numberline {5.7.1}Evaluating against the principles for machine-actionable Data Management Plans}{54}{subsubsection.5.7.1}
+\contentsline {subsubsection}{\numberline {5.7.2}Competency questions}{57}{subsubsection.5.7.2}
+\contentsline {subsubsection}{\numberline {5.7.3}Case study}{57}{subsubsection.5.7.3}
+\contentsline {subsection}{\numberline {5.8}Summary}{61}{subsection.5.8}
+\contentsline {section}{\numberline {6}Conclusion}{62}{section.6}
+\contentsline {subsection}{\numberline {6.1}Summary}{62}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Outlook}{62}{subsection.6.2}
+\contentsline {section}{References}{64}{subsection.6.2}
+\contentsline {section}{List of Figures}{67}{section*.51}
+\contentsline {section}{\numberline {A}Appendix: Ontology}{69}{appendix.A}
+\contentsline {section}{\numberline {B}Appendix: Questions}{72}{appendix.B}

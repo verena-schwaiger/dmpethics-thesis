@@ -1,0 +1,50 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Introduction to the topic}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Task and goals}{section.1}% 3
+\BOOKMARK [1][-]{section.2}{Background}{}% 4
+\BOOKMARK [2][-]{subsection.2.1}{FAIR principles}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.2}{Machine-actionable Data Management Plans}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.3}{Related work}{section.2}% 7
+\BOOKMARK [2][-]{subsection.2.4}{Constraints}{section.2}% 8
+\BOOKMARK [2][-]{subsection.2.5}{Summary}{section.2}% 9
+\BOOKMARK [1][-]{section.3}{Analysis of the ethical approval process}{}% 10
+\BOOKMARK [2][-]{subsection.3.1}{Process and structure}{section.3}% 11
+\BOOKMARK [2][-]{subsection.3.2}{Examples and experience reports}{section.3}% 12
+\BOOKMARK [2][-]{subsection.3.3}{Summary}{section.3}% 13
+\BOOKMARK [1][-]{section.4}{A formal model for ethical approval workflows}{}% 14
+\BOOKMARK [2][-]{subsection.4.1}{Requirements and characteristics}{section.4}% 15
+\BOOKMARK [2][-]{subsection.4.2}{A pattern language for the ethical approval process workflow}{section.4}% 16
+\BOOKMARK [2][-]{subsection.4.3}{An ontology for the ethical approval process}{section.4}% 17
+\BOOKMARK [3][-]{subsubsection.4.3.1}{Integration of existing ontologies}{subsection.4.3}% 18
+\BOOKMARK [3][-]{subsubsection.4.3.2}{Ontology design}{subsection.4.3}% 19
+\BOOKMARK [2][-]{subsection.4.4}{Modelling the data flow}{section.4}% 20
+\BOOKMARK [2][-]{subsection.4.5}{Summary}{section.4}% 21
+\BOOKMARK [1][-]{section.5}{Concept realization}{}% 22
+\BOOKMARK [2][-]{subsection.5.1}{Implementation concept}{section.5}% 23
+\BOOKMARK [2][-]{subsection.5.2}{Tools and technologies}{section.5}% 24
+\BOOKMARK [2][-]{subsection.5.3}{Architecture}{section.5}% 25
+\BOOKMARK [2][-]{subsection.5.4}{Managing user workflows}{section.5}% 26
+\BOOKMARK [3][-]{subsubsection.5.4.1}{Identify application requirements}{subsection.5.4}% 27
+\BOOKMARK [3][-]{subsubsection.5.4.2}{Organization of questionnaire data}{subsection.5.4}% 28
+\BOOKMARK [3][-]{subsubsection.5.4.3}{Managing application data}{subsection.5.4}% 29
+\BOOKMARK [3][-]{subsubsection.5.4.4}{Checklist}{subsection.5.4}% 30
+\BOOKMARK [3][-]{subsubsection.5.4.5}{Similar studies}{subsection.5.4}% 31
+\BOOKMARK [2][-]{subsection.5.5}{PIDs and data storage}{section.5}% 32
+\BOOKMARK [3][-]{subsubsection.5.5.1}{Choosing the right data storage}{subsection.5.5}% 33
+\BOOKMARK [3][-]{subsubsection.5.5.2}{MediaWiki Setup}{subsection.5.5}% 34
+\BOOKMARK [3][-]{subsubsection.5.5.3}{Integrating ontologies}{subsection.5.5}% 35
+\BOOKMARK [3][-]{subsubsection.5.5.4}{Interaction between MediaWiki and web application}{subsection.5.5}% 36
+\BOOKMARK [3][-]{subsubsection.5.5.5}{PIDs}{subsection.5.5}% 37
+\BOOKMARK [2][-]{subsection.5.6}{Example walkthrough}{section.5}% 38
+\BOOKMARK [2][-]{subsection.5.7}{Evaluation}{section.5}% 39
+\BOOKMARK [3][-]{subsubsection.5.7.1}{Evaluating against the principles for machine-actionable Data Management Plans}{subsection.5.7}% 40
+\BOOKMARK [3][-]{subsubsection.5.7.2}{Competency questions}{subsection.5.7}% 41
+\BOOKMARK [3][-]{subsubsection.5.7.3}{Case study}{subsection.5.7}% 42
+\BOOKMARK [2][-]{subsection.5.8}{Summary}{section.5}% 43
+\BOOKMARK [1][-]{section.6}{Conclusion}{}% 44
+\BOOKMARK [2][-]{subsection.6.1}{Summary}{section.6}% 45
+\BOOKMARK [2][-]{subsection.6.2}{Outlook}{section.6}% 46
+\BOOKMARK [1][-]{subsection.6.2}{References}{}% 47
+\BOOKMARK [1][-]{section*.51}{List of Figures}{}% 48
+\BOOKMARK [1][-]{appendix.A}{Appendix: Ontology}{}% 49
+\BOOKMARK [1][-]{appendix.B}{Appendix: Questions}{}% 50

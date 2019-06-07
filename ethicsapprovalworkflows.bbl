@@ -1,0 +1,182 @@
+\begin{thebibliography}{10}
+
+\bibitem{cc}
+{Creative Commons} licenses.
+\newblock Accessed: 2019-05-28.
+\newblock URL: \url{https://creativecommons.org/licenses/}.
+
+\bibitem{dmprmap}
+{DMPRoadmap}.
+\newblock Accessed: 2019-05-29.
+\newblock URL: \url{https://github.com/DMPRoadmap/roadmap}.
+
+\bibitem{dmptool}
+{DMPTool}.
+\newblock Accessed: 2019-05-29.
+\newblock URL: \url{https://dmptool.org/}.
+
+\bibitem{agpl}
+{GNU Affero General Public} licenses.
+\newblock Accessed: 2019-05-28.
+\newblock URL: \url{https://www.gnu.org/licenses/agpl-3.0.en.html}.
+
+\bibitem{sedi}
+Semantic dicom ontology.
+\newblock Accessed: 2019-05-28.
+\newblock URL: \url{https://bioportal.bioontology.org/ontologies/SEDI}.
+
+\bibitem{sty}
+Semantic types ontology.
+\newblock Accessed: 2019-05-28.
+\newblock URL:
+  \url{https://bioportal.bioontology.org/ontologies/STY?p=summary}.
+
+\bibitem{alexanderpatterns}
+C.~Alexander, P.D.A.C. Alexander, S.~Ishikawa, M.~Silverstein, M.~Jacobson,
+  Center for Environmental~Structure, I.~Fiksdahl-King, and A.~Shlomo.
+\newblock {\em A Pattern Language: Towns, Buildings, Construction}.
+\newblock Center for Environmental Structure Berkeley, Calif: Center for
+  Environmental Structure series. OUP USA, 1977.
+
+\bibitem{agro}
+Laporte MA Devare M Arnaud~E. Aubert~C, Buttigieg~PL.
+\newblock Cgiar agronomy ontology, 2017.
+\newblock Accessed: 2019-05-28.
+\newblock URL: \url{http://purl.obolibrary.org/obo/agro.owl}.
+
+\bibitem{buschmannpatterns}
+F~Buschmann, R~Meunier, H~Rohnert, P~Sommerland, and M~Stal.
+\newblock {\em Software Patterns}.
+\newblock John Wiley \& Sons, 1996.
+
+\bibitem{duo}
+Giselle Kerry Gregory Rushton Moran Ncabili Stephanie Dyke Cooper Stansbury J.
+  Neil~Otte David~An, Dylan~Spalding.
+\newblock Duo - the data use ontology.
+\newblock Accessed: 2019-05-28.
+\newblock URL: \url{https://github.com/EBISPOT/DUO}.
+
+\bibitem{iao}
+Chris~Stoeckert et~al.
+\newblock Information artifact ontology (iao).
+\newblock Accessed: 2019-05-28.
+\newblock URL: \url{https://github.com/information-artifact-ontology/IAO}.
+
+\bibitem{rephospital}
+Lyndsey F~Watson, Jo-Anne Rayner, and Judith M~Lumley.
+\newblock Hospital ethics approval for a population-based case-control study of
+  very preterm birth.
+\newblock {\em Australian health review : a publication of the Australian
+  Hospital Association}, 31:514--22, 12 2007.
+\newblock \href {http://dx.doi.org/10.1071/AH070514}
+  {\path{doi:10.1071/AH070514}}.
+
+\bibitem{ncit}
+National Cancer Institute~Center for Bioinformatics.
+\newblock National cancer institute thesaurus.
+\newblock Accessed: 2019-05-28.
+\newblock URL: \url{https://ncit.nci.nih.gov/ncitbrowser/}.
+
+\bibitem{snomed}
+SNOMED International.
+\newblock Snomed ct.
+\newblock Accessed: 2019-05-28.
+\newblock URL: \url{https://www.snomed.org/}.
+
+\bibitem{mallet}
+Andrew Kachites~McCallum.
+\newblock Smile: Statistical machine intelligence \& learning engine.
+\newblock https://haifengl.github.io/smile/, 2002.
+
+\bibitem{smilekeyword}
+Haifeng Li.
+\newblock Mallet: A machine learning for language toolkit.
+\newblock http://mallet.cs.umass.edu, 2014.
+
+\bibitem{dsap}
+Mingyuan Li.
+\newblock {\em DSAP: Data Sharing Agreement Privacy Ontology}.
+\newblock PhD thesis, 2018.
+
+\bibitem{casestudy}
+Raúl Madrid.
+\newblock {The rise of ethnic politics in Latin America}, 2016.
+\newblock URL: \url{https://doi.org/10.5064/F6MS3QNV}, \href
+  {http://dx.doi.org/10.5064/F6MS3QNV} {\path{doi:10.5064/F6MS3QNV}}.
+
+\bibitem{example1}
+M~Concepci{\'o}n Mart{\'\i}n-Arribas, Isabel Rodr{\'\i}guez-Lozano, and Javier
+  Arias-D{\'\i}az.
+\newblock Ethical review of research protocols: experience of a research ethics
+  committee.
+\newblock {\em Revista Espa{\~n}ola de Cardiolog{\'\i}a (English Edition)},
+  65(6):525--529, 2012.
+
+\bibitem{patternlanguage}
+Doble~J Meszaros and Jim Doble.
+\newblock G. a pattern language for pattern writing.
+\newblock In {\em Proceedings of International Conference on Pattern languages
+  of program design (1997)}, volume 131, page 164, 1997.
+
+\bibitem{dmp}
+Tomasz Miksa, Andreas Rauber, Roman Ganguly, and Paolo Budroni.
+\newblock Information integration for machine actionable data management plans.
+\newblock {\em International Journal of Digital Curation}, 12:22, 09 2017.
+\newblock \href {http://dx.doi.org/10.2218/ijdc.v12i1.529}
+  {\path{doi:10.2218/ijdc.v12i1.529}}.
+
+\bibitem{madmp}
+Tomasz Miksa, Stephanie Simms, Daniel Mietchen, and Sarah Jones.
+\newblock Ten principles for machine-actionable data management plans.
+\newblock {\em PLOS Computational Biology}, 15(3):1--15, 03 2019.
+\newblock URL: \url{https://doi.org/10.1371/journal.pcbi.1006750}, \href
+  {http://dx.doi.org/10.1371/journal.pcbi.1006750}
+  {\path{doi:10.1371/journal.pcbi.1006750}}.
+
+\bibitem{deon}
+Emily Miller and Peter Bull.
+\newblock deon: An ethics checklist for data scientists.
+\newblock Accessed: 2019-04-28.
+\newblock URL: \url{http://deon.drivendata.org}.
+
+\bibitem{mesh}
+United States National~Library of~Medicine.
+\newblock Medical subject headings (mesh).
+\newblock Accessed: 2019-05-28.
+\newblock URL: \url{https://www.nlm.nih.gov/mesh/}.
+
+\bibitem{ico}
+Frank J.~Manion Oliver~He, Asiyah Yu Lin et~al.
+\newblock Informed consent ontology (ico).
+\newblock Accessed: 2019-05-28.
+\newblock URL: \url{https://github.com/ICO-ontology/ICO}.
+
+\bibitem{dmpblog}
+Stephanie Simms.
+\newblock Machine-actionable {DMPs}: What can we automate?
+\newblock Accessed: 2019-05-28.
+\newblock URL:
+  \url{https://blog.dmptool.org/2018/08/20/machine-actionable-dmps-what-can-we-automate/}.
+
+\bibitem{ocre}
+Samson Tu, Simona Carini, Alan Rector, Peter Maccallum, Igor Toujilov, Steve
+  Harris, and Ida Sim.
+\newblock Ocre: An ontology of clinical research.
+\newblock 01 2009.
+
+\bibitem{rep}
+Claudia Vadeboncoeur, Nick Townsend, Charlie Foster, and Mark Sheehan.
+\newblock {}variation in university research ethics review: Reflections
+  following an inter-university study in england.
+
+\bibitem{fair}
+Mark~D Wilkinson, Michel Dumontier, IJsbrand~Jan Aalbersberg, Gabrielle
+  Appleton, Myles Axton, Arie Baak, Niklas Blomberg, Jan-Willem Boiten,
+  Luiz~Bonino da~Silva~Santos, Philip~E Bourne, et~al.
+\newblock The fair guiding principles for scientific data management and
+  stewardship.
+\newblock {\em Scientific data}, 3, 2016.
+\newblock \href {http://dx.doi.org/10.1038/sdata.2016.18}
+  {\path{doi:10.1038/sdata.2016.18}}.
+
+\end{thebibliography}

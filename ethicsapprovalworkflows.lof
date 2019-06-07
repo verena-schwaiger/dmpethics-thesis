@@ -1,0 +1,33 @@
+\contentsline {figure}{\numberline {1}{\ignorespaces Principles for machine-actionable data management plans \cite {madmp}\relax }}{9}{figure.caption.3}
+\contentsline {figure}{\numberline {2}{\ignorespaces Key steps in the ethical review process for planne studies.\relax }}{13}{figure.caption.4}
+\contentsline {figure}{\numberline {3}{\ignorespaces Illustration of the large number of special cases and diverging paths that each come with different requirements.\relax }}{14}{figure.caption.5}
+\contentsline {figure}{\numberline {4}{\ignorespaces Zooming in on Figure \ref {somanypaths}.\relax }}{15}{figure.caption.6}
+\contentsline {figure}{\numberline {5}{\ignorespaces Current state of PIDs in the ethical approval workflow.\relax }}{19}{figure.caption.8}
+\contentsline {figure}{\numberline {6}{\ignorespaces Concept for additional PIDs (cf. Figure \ref {pidsnow}). The committee's data store and PIDs are highlighted in yellow, our PIDs and data store are highlighted in green.\relax }}{20}{figure.caption.9}
+\contentsline {figure}{\numberline {7}{\ignorespaces Overview of parts of the application process.\relax }}{22}{figure.caption.12}
+\contentsline {figure}{\numberline {8}{\ignorespaces Different states of an ethics approval application.\relax }}{23}{figure.caption.13}
+\contentsline {figure}{\numberline {9}{\ignorespaces Relationship between a study and its ethical concerns and restrictions.\relax }}{24}{figure.caption.15}
+\contentsline {figure}{\numberline {10}{\ignorespaces Elements involved in describing a study and its components.\relax }}{26}{figure.caption.17}
+\contentsline {figure}{\numberline {11}{\ignorespaces Condensed overview of the ontology's classes and properties.\relax }}{28}{figure.caption.18}
+\contentsline {figure}{\numberline {12}{\ignorespaces Data flow between research team, ethics committee and \-- potentially \-- secondary researchers.\relax }}{29}{figure.caption.19}
+\contentsline {figure}{\numberline {13}{\ignorespaces Data flow between research team, ethics committee and secondary researchers.\relax }}{30}{figure.caption.20}
+\contentsline {figure}{\numberline {14}{\ignorespaces Overview of the interaction between frontend, backend and MediaWiki\relax }}{36}{figure.caption.23}
+\contentsline {figure}{\numberline {15}{\ignorespaces Early concept for a questionnaire that determines which documents and other information have to be provided by the study authors.\relax }}{38}{figure.caption.26}
+\contentsline {figure}{\numberline {16}{\ignorespaces Model used for the database scheme and helper functions. Besides the classes for study and user data, the \textit {SMWApi} class is used for communicating with the public data storage, which will be discussed later on.\relax }}{41}{figure.caption.32}
+\contentsline {figure}{\numberline {17}{\ignorespaces Example of a Wikibase application's use of RDF, here some of the data for "Earth". \relax }}{43}{figure.caption.33}
+\contentsline {figure}{\numberline {18}{\ignorespaces Overview of storage components with a Semantic MediaWiki connected to an RDF store.\relax }}{45}{figure.caption.35}
+\contentsline {figure}{\numberline {19}{\ignorespaces A Wiki page generated from a simple template.\relax }}{46}{figure.caption.36}
+\contentsline {figure}{\numberline {20}{\ignorespaces Creation of PIDs during the user's workflow.\relax }}{47}{figure.caption.37}
+\contentsline {figure}{\numberline {21}{\ignorespaces The user can add a study by providing a title and filling out a questionnaire.\relax }}{48}{figure.caption.38}
+\contentsline {figure}{\numberline {22}{\ignorespaces While filling out the questionnaire, the user is shown warnings.\relax }}{48}{figure.caption.39}
+\contentsline {figure}{\numberline {23}{\ignorespaces The user has access to all their submitted studies.\relax }}{49}{figure.caption.40}
+\contentsline {figure}{\numberline {24}{\ignorespaces A form can be filled with data for the private and/or public databases.\relax }}{50}{figure.caption.41}
+\contentsline {figure}{\numberline {25}{\ignorespaces A checklist shows the user which documents they should provide. Checklist progress can be saved in the private database.\relax }}{51}{figure.caption.42}
+\contentsline {figure}{\numberline {26}{\ignorespaces The questionnaire can be reviewed and updated.\relax }}{51}{figure.caption.43}
+\contentsline {figure}{\numberline {27}{\ignorespaces Similar studies can be accessed as long as they are public on the Wiki.\relax }}{52}{figure.caption.44}
+\contentsline {figure}{\numberline {28}{\ignorespaces Public MediaWiki page showing the submitted study data.\relax }}{53}{figure.caption.45}
+\contentsline {figure}{\numberline {29}{\ignorespaces SPARQL queries can be used to discover studies.\relax }}{54}{figure.caption.46}
+\contentsline {figure}{\numberline {30}{\ignorespaces Case study: Questionnaire, pt. 1\relax }}{58}{figure.caption.47}
+\contentsline {figure}{\numberline {31}{\ignorespaces Case study: Questionnaire, pt.2\relax }}{59}{figure.caption.48}
+\contentsline {figure}{\numberline {32}{\ignorespaces Case study: Requirements\relax }}{60}{figure.caption.49}
+\contentsline {figure}{\numberline {33}{\ignorespaces Case study: Wiki page\relax }}{60}{figure.caption.50}
